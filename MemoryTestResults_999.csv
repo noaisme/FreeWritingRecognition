@@ -1,0 +1,21 @@
+Subject ID,Bigram,UserAnswer,Is answer Correct?,Is it a user bigram?,Fault Type,What half?
+999,"לך משהו",User,True,User,----,2nd
+999,"קשה עבור",User,True,User,----,1st
+999,"במחקר הזה",User,True,User,----,1st
+999,"כדאי לי",Control,True,Control,----,None
+999,"לכתוב בלי",User,False,Control,Commission,None
+999,"הרבה זמן",Control,True,Control,----,None
+999,"לעשות מאשר",User,True,User,----,2nd
+999,"על מה",User,False,Control,Commission,None
+999,"אנשים שמעדיפים",User,True,User,----,2nd
+999,"לא כל",Control,False,User,Ommission,2nd
+999,"אני לא",Control,True,Control,----,None
+999,"מאוד קשה",User,False,Control,Commission,None
+999,"שזה קצת",User,False,Control,Commission,None
+999,"להסתכל ואני",User,True,User,----,1st
+999,"בסך הכל",Control,False,User,Ommission,2nd
+999,"חוץ מזה",User,False,Control,Commission,None
+999,"מעניין ואולי",User,True,User,----,1st
+999,"בכל אופן",Control,True,Control,----,None
+999,"ממש לא",Control,True,Control,----,None
+999,"ואני חושב",Control,False,User,Ommission,1st
